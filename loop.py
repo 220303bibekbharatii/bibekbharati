@@ -9,5 +9,5 @@ for i in range(10, 42, +2):
     print(i)
 # wap to print odd numbers from 100 to 50 
 for i in range(99, 49, -2):
-    print(i, end= '')
+    print(i, end= ',')
  
